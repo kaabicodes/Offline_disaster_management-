@@ -1,0 +1,5 @@
+{
+  "name": "MeshRelay",
+  "description": "Offline P2P Mesh Communication App for emergency and remote relay networking.",
+  "requestFramePermissions": ["geolocation"]
+}
