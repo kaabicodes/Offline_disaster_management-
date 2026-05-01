@@ -60,14 +60,10 @@ In a disaster scenario:
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend:** Android (Kotlin)  
-- **Connectivity:** Bluetooth (BLE), WiFi Direct, LoRa  
-- **Security:** AES Encryption  
-- **Maps:** Offline Map Data  
+## 🏁 Offline Mode
+This project now runs fully in the browser as an offline mesh simulation. The backend is optional and not required for the core Wi-Fi/Bluetooth mesh communication UI.
 
 ---
-
 ## 🌍 Impact  
 - ⏱️ Faster rescue operations  
 - 🤝 Better coordination  

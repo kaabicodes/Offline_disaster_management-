@@ -6,6 +6,8 @@ export interface Node {
   type: NodeType;
   status: 'online' | 'offline' | 'relay-only';
   battery: number;
+  ipAddress?: string; // IP address for connected devices
+  connectionMethod?: string;
   position: { x: number; y: number };
   connections: string[]; // IDs of connected nodes
   lastSeen: number;
